@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a quality control toolbox for preclinical MRI images.
+- 🔭 I’m currently working on behavioral analysis with mouse data. 
 - 📫 How to reach me: https://www.linkedin.com/in/aref-kalantari-sarcheshmeh-943449146/
 - 👯 Im currently working as a Ph.D. student in the Lab of Dr. Markus Aswendt at the AG Neuroengineering and Neuroimaging in Experimental Stroke
