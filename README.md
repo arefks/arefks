@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on behavioral analysis with mouse data. 
-- 📫 How to reach me: https://www.linkedin.com/in/aref-kalantari-sarcheshmeh-943449146/
-- 👯 Im currently working as a Ph.D. student in the Lab of Dr. Markus Aswendt at the AG Neuroengineering and Neuroimaging in Experimental Stroke
+- 🔭 I’m currently working on Research Data Management strategies with the help of LLMs.  
+- 📫 How to reach me: https://www.linkedin.com/in/aref-kalantari/
+- 👯 I'm currently working as a PostDoc in the Institute of Medical Biometry and Statistics (IMBI) in Freiburg at the AG Research Data Management under the supervision of Prof. Harald Binder and Dr. Klaus Kaier
